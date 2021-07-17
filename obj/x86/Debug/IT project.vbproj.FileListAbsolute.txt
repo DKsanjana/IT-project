@@ -1,0 +1,35 @@
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\bin\Debug\IT project.exe
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\bin\Debug\IT project.pdb
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\bin\Debug\IT project.xml
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.Form1.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.Resources.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT project.vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT project.exe
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT project.xml
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT project.pdb
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\bin\Debug\IT project.exe.config
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.Form2.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.Form3.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.Form4.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.Form5.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.Form6.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\bin\Debug\Database1.mdf
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\bin\Debug\Database1_log.ldf
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.DataView.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDE.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDA.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\bin\Debug\AdminDatabase.mdf
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\bin\Debug\AdminDatabase_log.ldf
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.Form7.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDBA.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDBF.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDEB.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDEC.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDEM.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDEng.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDFT.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDM.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDQS.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDTHM.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.HNDT.resources
+C:\Users\acer\Desktop\Projects\Visual basic\IT project\IT project\obj\x86\Debug\IT_project.Login.resources
